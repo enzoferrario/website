@@ -52,10 +52,15 @@ html{
   background: #FFF;
   line-height: 27px;
   font-size: 22px;
+  font-family: Times New Roman, Arial, sans-serif;
 }
 
 h1{
   color: #090;
+}
+
+h2,h3,p{
+  padding-bottom: 22px;
 }
 
 
